@@ -14,12 +14,7 @@ $edad = readline("edad: ");
 $genero = readline("genero: ");
 $peso = readline("peso: ");
 $fuma = readline("fuma: ");
-$nombre = readline("nombre: ");
-$estatura = readline("estatura: ");
-$edad = readline("edad: ");
-$genero = readline("genero: ");
-$peso = readline("peso: ");
-$fuma = readline("fuma: ");
+
 
 $empleado =[
 "dni" => $dni,
